@@ -1,4 +1,4 @@
-## Stock Trading Platform (Java GUI)
+## Stock Trading Platform
 
 This project is a basic simulation of a stock trading system developed using Java. It provides a graphical interface where users can view available stocks, perform buy and sell operations, and track their portfolio in real time.
 
