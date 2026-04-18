@@ -1,4 +1,4 @@
-## 📈 Stock Trading Platform (Java GUI)
+## Stock Trading Platform (Java GUI)
 
 This project is a basic simulation of a stock trading system developed using Java. It provides a graphical interface where users can view available stocks, perform buy and sell operations, and track their portfolio in real time.
 
@@ -8,7 +8,7 @@ The portfolio section shows the stocks owned by the user, including quantity and
 
 This project simulates real-world trading logic such as balance checking and stock ownership validation, making it a practical implementation of OOP concepts.
 
-### 🔑 Features
+### Features
 - View available stocks and prices
 - Buy and sell stocks
 - Real-time balance updates
@@ -16,7 +16,7 @@ This project simulates real-world trading logic such as balance checking and sto
 - Validation for balance and stock ownership
 - Clean GUI layout with multiple sections
 
-### 🛠 Technologies Used
+### Technologies Used
 - Java
 - Swing (GUI)
 - ArrayList (data management)
@@ -24,7 +24,7 @@ This project simulates real-world trading logic such as balance checking and sto
 
 This project demonstrates practical use of OOP, GUI development, and basic financial logic in Java.
 
-## 📸 Screenshots
+## Screenshots
 
 <img width="1920" height="1080" alt="Screenshot  (5)" src="https://github.com/user-attachments/assets/a1d23bd9-2afb-4c2b-b820-5f8f01a1dabe" />
 <img width="1920" height="1080" alt="Screenshot  (4)" src="https://github.com/user-attachments/assets/d09011bd-3558-491f-9fe7-84990e24b745" />
@@ -33,7 +33,7 @@ This project demonstrates practical use of OOP, GUI development, and basic finan
 <img width="1920" height="1080" alt="Screenshot  (1)" src="https://github.com/user-attachments/assets/7ca511d8-f586-4ad1-b9ed-7d83f60906a7" />
 <img width="1920" height="1080" alt="Screenshot  (6)" src="https://github.com/user-attachments/assets/9cb8ea91-a177-4808-a80b-119bc7146228" />
 
-## ▶️ How to Run
+## How to Run
 1. Open project in NetBeans
 2. Run the main class
 3. Use the GUI to interact with the system
